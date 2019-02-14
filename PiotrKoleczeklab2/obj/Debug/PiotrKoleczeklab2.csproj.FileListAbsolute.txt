@@ -1,0 +1,10 @@
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\obj\Debug\PiotrKoleczeklab2.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\obj\Debug\PiotrKoleczeklab2.MainForm.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\obj\Debug\PiotrKoleczeklab2.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\obj\Debug\PiotrKoleczeklab2.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\obj\Debug\PiotrKoleczeklab2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\bin\Debug\PiotrKoleczeklab2.exe.config
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\bin\Debug\PiotrKoleczeklab2.exe
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\bin\Debug\PiotrKoleczeklab2.pdb
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\obj\Debug\PiotrKoleczeklab2.exe
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab2\zajęcia\PiotrKoleczeklab2\PiotrKoleczeklab2\obj\Debug\PiotrKoleczeklab2.pdb
